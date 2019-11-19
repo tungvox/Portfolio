@@ -1,3 +1,9 @@
+## My portfolio webpage
+
+## View page at: https://kraytech.herokuapp.com/
+
+## Try reloading page in case of error in first launch
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
