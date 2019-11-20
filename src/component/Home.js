@@ -178,7 +178,7 @@ class Home extends Component {
 						<p><i className="fas fa-mobile-alt"></i> +358 46 9678137</p>
 						<p><i className="fas fa-envelope"></i> tungvosgt@gmail.com</p>
 						<p><i className="fas fa-map-marker-alt"></i> Yo-kyla , Turku, Finland.</p>
-						<p><i className="fas fa-link"></i> www.kraytech.com</p>
+						<p><i className="fas fa-link"></i> kraytech.herokuapp.com</p>
 					</div>
 				</div>
 			</div>
