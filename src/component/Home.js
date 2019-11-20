@@ -6,6 +6,10 @@ class Home extends Component {
 		this.loadScript();
 	}
 
+	handleProjecView = () => {
+
+	}
+
 	loadScript = () => {
 		var prevScrollpos = window.pageYOffset;
 		window.onscroll = function () {
@@ -128,6 +132,24 @@ class Home extends Component {
 				</div>
 				<div id="project" className="project">
 					<div className="title">Projects</div>
+					<div className="container">
+						<div className="row">
+							<div id="project1" className="col-sm projects">
+								<div className="project-img" id="project1-img"></div>
+								<div className="project-view row">
+									{/* <a className="col-sm" href="https://quizbaby.herokuapp.com/" target="_blank">View Quiz Baby</a> */}
+									<a className="col-sm" href="https://github.com/tungvox/quizbaby" target="_blank">View Source</a>
+								</div>
+							</div>
+							<div id="project2" className="col-sm projects">
+								<div className="project-img" id="project2-img"></div>
+								<div className="project-view row">
+									{/* <a className="col-sm" href="#">View Page</a>
+									<a className="col-sm" href="#">View Source</a> */}
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 				<div id="about" className="about">
 					<div className="drink">
