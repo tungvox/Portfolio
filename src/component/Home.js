@@ -144,8 +144,8 @@ class Home extends Component {
 							<div id="project2" className="col-sm projects">
 								<div className="project-img" id="project2-img"></div>
 								<div className="project-view row">
-									{/* <a className="col-sm" href="#">View Page</a>
-									<a className="col-sm" href="#">View Source</a> */}
+									{/* <a className="col-sm" href="#">View Page</a> */}
+									<a className="col-sm" href="https://github.com/tungvox/eatsmooth" target="_blank">View Source</a>
 								</div>
 							</div>
 						</div>
