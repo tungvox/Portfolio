@@ -155,10 +155,10 @@ class Home extends Component {
 					<div className="drink">
 						<div id="main"></div>
 						<div id="item-1" className="content">
-							<h3>TUNGvo</h3>
+							<h3>Kray</h3>
 						</div>
 						<div id="item-2" className="content">
-							<h3>25</h3>
+							<h3>Nini</h3>
 						</div>
 						<div id="item-3" className="content">
 							<h3>VIETnam</h3>
